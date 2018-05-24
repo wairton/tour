@@ -1,7 +1,7 @@
 import time
 import random
 
-from collections import defauldict, deque, namedtuple, Counter
+from collections import defaultdict, deque, namedtuple, Counter
 
 
 def deque_vs_list_example():
